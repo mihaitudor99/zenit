@@ -102,7 +102,7 @@ a:hover { color: inherit; }
 
 .mark {
   display: block;
-  background: url(/upload/img/zenitlogo.jpg) center/cover no-repeat;
+  background: url(/img/zenitlogo.jpg) center/cover no-repeat;
   border-radius: 50%;
   flex-shrink: 0;
 }
@@ -330,7 +330,7 @@ a:hover { color: inherit; }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: url(/upload/img/zenit1.jpg) center center / cover no-repeat;
+  background: url(/img/zenit1.jpg) center center / cover no-repeat;
 }
 
 @media (min-width: 992px) {
